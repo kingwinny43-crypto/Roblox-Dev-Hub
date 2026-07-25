@@ -1,6 +1,0 @@
-{
-  "name": "Roblox Dev Hub",
-  "description": "Free Roblox Studio developer asset library with models, scripts, maps, UI systems, AI search, and developer hub community features.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
